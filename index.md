@@ -10,3 +10,7 @@
 ```
 print("Hello World")
 ```
+
+- [x] Study this lesson
+- [x] Make sure to understand
+- [ ] Be able to repeat
